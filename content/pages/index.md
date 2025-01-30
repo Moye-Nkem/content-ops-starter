@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: NKEM MOYE ONYEKA
     text: >+
-      ## With over six years of experience in IT project management, I
-      specialize in delivering complex projects on time and within budget. My
-      expertise in Agile and Waterfall methodologies ensures that I effectively
-      lead teams and manage stakeholder expectations.
+      # With over six years of experience in IT project management, I specialize
+      in delivering complex projects on time and within budget. My expertise in
+      Agile and Waterfall methodologies ensures that I effectively lead teams
+      and manage stakeholder expectations.
 
     actions:
       - label: Get started

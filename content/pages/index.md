@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: NKEM MOYE ONYEKA
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      With over six years of experience in IT project management, I specialize
+      in delivering complex projects on time and within budget. My expertise in
+      Agile and Waterfall methodologies ensures that I effectively lead teams
+      and manage stakeholder expectations.
     actions:
       - label: Get started
         altText: ''
